@@ -98,7 +98,8 @@ The page template and conventions are in [`CLAUDE.md`](CLAUDE.md).
 **Only Kurt can fill these in.** They're the highest-value prep:
 - [ ] **S5:** his current memory + RAG + LangGraph + Azure AI Search service. Templates: `04` Q1, `06` Q1, and `13` S5.
 - [ ] **S1 / S2 numbers:** eval pass rate, cost per turn, users, and the Data Validation impact.
-- [ ] **M1** (a real mentoring story), **C1** (conflict), **F1** (failure), **P1** (pushback) in `13`.
+- [x] **M1** written (Oct 16): led three contractors for ~2 months after his manager resigned. Still needs: dates, results, and one contractor's growth.
+- [ ] **C1** (conflict), **F1** (failure), **P1** (pushback) in `13`.
 - [ ] Salary number and walk-away point (`01` Q10).
 - [ ] Interviewer name, date, and format confirmed with the recruiter.
 

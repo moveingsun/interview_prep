@@ -22,7 +22,7 @@ Tip: open with a one-line headline ("This is about a 10× cost spike I tracked d
 | How you evaluate or monitor AI quality | [S1](#s1) | [S2](#s2), [S4](#s4) |
 | Human-in-the-loop / safety / responsible AI | [S2](#s2) | [S9](#s9) |
 | Leading without authority / influencing | [S6](#s6) | [S10](#s10), [S3](#s3) |
-| Mentoring / teaching | [M1](#m1) *(fill in)* | [S10](#s10), [S6](#s6) |
+| Mentoring / teaching | [M1](#m1) | [S10](#s10), [S6](#s6) |
 | Working with product / stakeholders | [S8](#s8) | [S3](#s3) |
 | Ambiguity / unclear requirements | [S8](#s8) | [S1](#s1) |
 | Debugging under pressure / escalation | [S7](#s7) | [S9](#s9), [S11](#s11) |
@@ -145,8 +145,22 @@ Tip: open with a one-line headline ("This is about a 10× cost spike I tracked d
 ## Stories you still need (prepare before Friday)
 
 <a id="m1"></a>
-### M1 · A time you mentored or coached someone  `[fill in]`
-Pick a real person (Wayfair is likely). Good shapes: you onboarded someone onto Kronos; you helped a teammate debug or design rather than doing it for them; you reviewed someone's PR in a way that taught a principle. Include **what they could do afterward that they couldn't before.**
+### M1 · Leading three contractors after my manager resigned (~2 months)
+- **Situation:** When my manager resigned `[fill in: month, 2026]`, I became the day-to-day lead for three contract engineers on three projects for about two months `[fill in: until a new manager started / what ended it]`:
+  - **AI project** `[fill in: which one, e.g., Load Deal AI or Watt]`: an offshore backend contractor and a frontend engineer.
+  - **PnL engine:** I built the backend, and the same frontend engineer built the UI.
+  - **AMP:** a second frontend engineer. I assigned and reviewed the UI work.
+- **Task:** Keep all three projects moving without a manager, while still writing much of the backend code myself.
+- **Action:** I set up a daily loop.
+  - **End of day:** I wrote a Confluence page or a long message for each person: what to build next, why, and what "done" looks like. For the offshore contractor this meant a full day of progress while I was offline.
+  - **Morning, on my way in:** a short chat with each of them on progress and blockers.
+  - **In the office:** I reviewed their pull requests, then spent several hours working through problems together.
+  - **The rest of the day:** my own backend work.
+  - `[fill in: how you set priorities across the three projects, and who you aligned with (PM, skip-level manager)]`
+- **Result:** `[fill in: what shipped in those two months (did the PnL release in Aug 2026 fall in this window?), and one contractor who became more independent. What could they do at the end that they couldn't at the start?]`
+- **Lesson:** `[adjust to your real lesson]` "Clear written instructions were what made it work across time zones. If the goal and the reason were written down, they could make good decisions without waiting for me."
+- **How to say it honestly:** "I led their work day to day." Don't say "I was their manager" unless you also handled hiring, performance, or contracts.
+- **Use for:** mentoring, the "no lead title" question, mentoring while coding 40–50% of the time, delegation, working with offshore teams.
 
 <a id="c1"></a>
 ### C1 · A disagreement or conflict  `[fill in]`

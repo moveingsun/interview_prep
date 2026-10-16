@@ -44,7 +44,7 @@ Cerner (healthcare) → Wayfair data platform (Kronos to K8s, 2M jobs/week, onbo
 | **New tech** | "Bake-off on *our* eval set, measuring quality, latency, cost, security, and team fit, then a short ADR. Not hype." |
 | **Disagreement** | "Make the decision criteria explicit, prototype or measure if cheap, decide, document, and disagree-and-commit." |
 | **First 90 days** | "30: listen, learn the systems and people, ship something small. 60: own a meaningful piece, propose the 2–3 highest-value standards (evals, review checklist). 90: those standards are running, and each engineer has a growth plan." |
-| **No lead title** | "I've led through ownership, specs, and enablement. Here's my concrete approach." Then name a story. |
+| **No lead title** | "I've led through ownership, specs, and enablement, and for two months after my manager resigned I led three contractors day to day." Then tell [M1](13-Behavioral-Story-Bank.md#m1). |
 | **ML gap** | "My depth is production AI systems, not training deep-learning models from scratch. Here's what I know and how I'd partner and ramp." |
 
 ## Top 4 questions to ask ([14](14-Questions-to-Ask.md))

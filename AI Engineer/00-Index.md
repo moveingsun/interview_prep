@@ -86,7 +86,7 @@ If the interview moves earlier, do this minimum set: **01 → 13 → 11 → 05/0
 - [ ] **S5**: your current memory + RAG + LangGraph + Azure AI Search service: purpose, graph, memory design, retrieval design, status, one hard problem
 - [ ] **S1**: eval pass rate, cost per turn, users and adoption for Load Deal AI
 - [ ] **S2**: coverage and impact numbers for the Data Validation Service
-- [ ] **M1**: a real mentoring story · **C1**: a conflict · **F1**: a failure · **P1**: a pushback
+- [x] **M1**: leading three contractors (results still to fill in) · [ ] **C1**: a conflict · **F1**: a failure · **P1**: a pushback
 - [ ] Salary number and walk-away point ([01 Q10](01-Role-Company-and-Your-Pitch.md))
 - [ ] Confirm interview date, time, format, and interviewer name with the recruiter; look the interviewer up on LinkedIn
 

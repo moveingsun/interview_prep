@@ -8,10 +8,10 @@
 
 ## Read this first: how to frame your leadership experience honestly
 
-You haven't held a people-manager title, and this role doesn't read like a people-manager role. It's a hands-on lead. Don't apologize for that, and don't inflate it. Say what you have done, then show you have a deliberate approach.
+You haven't held a people-manager title, and this role doesn't read like a people-manager role. It's a hands-on lead. You *have* done that job: for about two months after your manager resigned, you led three contractors day to day while still coding ([M1](13-Behavioral-Story-Bank.md#m1)). Don't apologize, and don't inflate it. Say what you have done, then show you have a deliberate approach.
 
 **Framing line (memorize the shape, not the words):**
-> "I haven't been a people manager, and from the description this is a hands-on lead role, which is the kind of leadership I've been doing. I own systems end to end, I write the specs other engineers build from, I onboarded more than ten data-engineering teams onto a new platform at Wayfair, and I set up the AI-assisted workflow my current team now uses for about 80% of its commits. For growing people, I have a specific approach, which I'll walk you through."
+> "I haven't been a people manager, and from the description this is a hands-on lead role, which is the kind of leadership I've been doing. When my manager resigned, I led three contract engineers day to day for about two months while still writing the backend code. I own systems end to end, I write the specs other engineers build from, I onboarded more than ten data-engineering teams onto a new platform at Wayfair, and I set up the AI-assisted workflow my current team now uses for about 80% of its commits. For growing people, I have a specific approach, which I'll walk you through."
 
 | What the role needs | Your evidence | Story |
 |---|---|---|
@@ -20,9 +20,9 @@ You haven't held a people-manager title, and this role doesn't read like a peopl
 | Raise the team's engineering practice | CLAUDE.md, code graph, domain knowledge base; AI-assisted commits 36% → 80% | [S6](13-Behavioral-Story-Bank.md#s6) |
 | Push for quality with non-engineers | PnL reconciliation with the PM: 60+ discrepancies resolved, all 32 deals matched | [S8](13-Behavioral-Story-Bank.md#s8) |
 | Learning culture after failure | Post-mortem Wizard: 25% more complete incident docs | [S12](13-Behavioral-Story-Bank.md#s12) |
-| 1:1 mentoring | `[fill in: 1–2 real people you mentored or onboarded, such as a new hire or intern on Kronos at Wayfair, a frontend engineer building from your Watt specs, or a teammate you taught the Claude Code workflow]` | — |
+| Lead engineers day to day while coding | Led 3 contractors on 3 projects for ~2 months after your manager resigned: end-of-day written handoffs, morning check-ins, PR reviews, pairing | [M1](13-Behavioral-Story-Bank.md#m1) |
 
-**Avoid:** saying "I managed a team" (not true). Also avoid saying "I mentored" without a named, specific example ready.
+**Avoid:** saying "I was their manager." Say "I led their work day to day," which is accurate. Also avoid saying "I mentored" without a specific example ready.
 
 ---
 
@@ -90,7 +90,7 @@ Then agree on a next step together. For example: "Eval runs are now a CI gate. C
 - **Sponsor them.** They demo their work to the PO and stakeholders, not me.
 - **How I know it's working:** better questions over time, fewer review rounds per PR, more blockers raised early, and eventually they can take an escalation alone.
 
-**Your angle:** In [S6](13-Behavioral-Story-Bank.md#s6) you wrote a domain knowledge base (10 docs, ~100 sections) so context wasn't stuck in your head. The same instinct applies to people: write it down once and teach from it. [S10](13-Behavioral-Story-Bank.md#s10) is teaching at scale. `[fill in: one person you helped ramp up. What could they not do at the start that they could do at the end?]`
+**Your angle:** In [S6](13-Behavioral-Story-Bank.md#s6) you wrote a domain knowledge base (10 docs, ~100 sections) so context wasn't stuck in your head. The same instinct applies to people: write it down once and teach from it. [S10](13-Behavioral-Story-Bank.md#s10) is teaching at scale. Your one-on-one example is [M1](13-Behavioral-Story-Bank.md#m1): daily written instructions, morning check-ins, PR review, then pairing. `[fill in: one contractor from M1. What could they not do at the start that they could do at the end?]`
 
 **Likely follow-ups:** "How much time per week does that take?" · "How do you know it's working?" · "Tell me about a mentee who struggled."
 
@@ -245,7 +245,7 @@ Then agree on a next step together. For example: "Eval runs are now a CI gate. C
 - **Async first:** design docs, short recorded walkthroughs, and a Q&A channel. Answers I give twice become docs.
 - **Scale myself:** CLAUDE.md, runbooks, and checklists cut down on repeated questions ([S6](13-Behavioral-Story-Bank.md#s6)).
 
-**Your angle:** [S14](13-Behavioral-Story-Bank.md#s14): as the sole engineer on five services plus a UI, you had to prioritize ruthlessly and document well.
+**Your angle:** [M1](13-Behavioral-Story-Bank.md#m1) is this exact situation. For two months you coded all day, wrote each contractor's instructions at the end of the day, checked in on the way to work, and reviewed PRs and paired in the morning. [S14](13-Behavioral-Story-Bank.md#s14): as the sole engineer on five services plus a UI, you had to prioritize ruthlessly and document well.
 
 **Likely follow-ups:** "What happens when you fall behind on your own work?" Answer: re-plan with the PO and drop my own scope before cutting 1:1s or reviews.
 
@@ -284,7 +284,7 @@ Then agree on a next step together. For example: "Eval runs are now a CI gate. C
 
 ### Q13. Tell me about a time you mentored someone.  `[P0]`  *(scaffold to fill in)*
 **Pick an example that has:** a real person, a specific starting gap, *your* concrete actions, a visible result, and something you learned.
-Candidates: `[fill in: a new hire or intern on Kronos at Wayfair / a frontend engineer implementing your Watt specs (S3) / someone on a team you onboarded to Composer (S10) / a teammate you taught the Claude Code workflow (S6)]`
+**Use [M1](13-Behavioral-Story-Bank.md#m1):** leading three contractors for ~2 months after your manager resigned. To make it a *mentoring* story and not only a coordination story, focus on **one** of the three people and what changed for them. `[fill in: which contractor, their starting gap, and what they could do at the end]`
 
 **STAR template:**
 - **Situation:** "[Role] joined [team] from [background]. They were struggling with [specific gap]."
@@ -320,7 +320,7 @@ Candidates: `[fill in: a new hire or intern on Kronos at Wayfair / a frontend en
 - **Don't redo their work.** Give feedback in review instead.
 - **Make it visible:** they present it.
 
-**Your angle:** Show self-awareness: "I've been the sole engineer on AMP for a year, so my natural risk is holding on too tight. My guard against that is X." Interviewers like this kind of honesty. [S3](13-Behavioral-Story-Bank.md#s3): you wrote the spec and let the frontend engineers own the implementation.
+**Your angle:** Show self-awareness: "I've been the sole engineer on AMP for a year, so my natural risk is holding on too tight. My guard against that is X." Interviewers like this kind of honesty. [S3](13-Behavioral-Story-Bank.md#s3): you wrote the spec and let the frontend engineers own the implementation. In [M1](13-Behavioral-Story-Bank.md#m1) you handed the AMP UI work to a frontend engineer and kept the backend yourself.
 
 ---
 
