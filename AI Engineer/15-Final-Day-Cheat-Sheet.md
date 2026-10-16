@@ -7,8 +7,32 @@
 2. **"He builds the guardrails healthcare needs"**: human-in-the-loop by design ([S2](13-Behavioral-Story-Bank.md#s2)), fail-closed access ([S9](13-Behavioral-Story-Bank.md#s9)), citation checks ([S1](13-Behavioral-Story-Bank.md#s1)).
 3. **"He makes other engineers better"**: specs others built from ([S3](13-Behavioral-Story-Bank.md#s3)), 10+ teams onboarded ([S10](13-Behavioral-Story-Bank.md#s10)), AI-assisted commits 36% → 80% ([S6](13-Behavioral-Story-Bank.md#s6)).
 
-## Pitch skeleton (90 sec)
-Cerner (healthcare) → Wayfair data platform (Kronos to K8s, 2M jobs/week, onboarded 10+ teams) → BETM: own AMP end to end → applied AI: Load Deal AI (Cortex + LangGraph, evals, cost) · Data Validation (LLM judge, human confirms) · now memory + RAG on LangGraph + Azure AI Search → **"I want to keep building and grow a team that builds this well, in healthcare."**
+## Self-introduction ("Tell me about yourself")
+
+**Memory hook:** Cerner (healthcare) → Wayfair data platform → BETM: own AMP → applied AI → led 3 contractors → *"build it and grow a team, in healthcare."*
+
+**Full version (~75 sec).** Say it, then stop and let them pick a thread.
+> "Hi, I'm Kurt. I'm a software engineer with about eight years in backend, data, and cloud, and for the last year and a half I've focused on applied AI in production.
+>
+> I started at **Cerner**, on a healthcare revenue-cycle application. Then I spent five years on **Wayfair's** data platform. I moved our job-orchestration platform, about **2 million jobs a week**, onto Kubernetes, and onboarded **more than ten teams** onto GCP Composer.
+>
+> At **Boston Energy Trading** I own the Asset Management Platform end to end, and I build our AI products. I built a load-deal assistant in **three weeks**, with a LangGraph agent, citation checks, an eval set, and cost tracking per turn. I built a data-validation service where an LLM judge triages issues, but **a person always confirms** before anything changes. Right now I'm building a service with **memory and RAG on LangGraph and Azure AI Search**.
+>
+> When my manager resigned, I also **led three contract engineers** day to day for about two months, while still coding.
+>
+> So what I want next is exactly this role: keep building production AI, and grow a team that does it well, in healthcare, where I started."
+
+**Short version (~20 sec)**, for "briefly introduce yourself" at the start of a panel:
+> "I'm Kurt, a software engineer with eight years in backend, data, and cloud. For the last year and a half I've built production AI: LangGraph agents, RAG, and evaluation. I'm now building a memory and RAG service on Azure AI Search, and I recently led three contractors after my manager left. I'm excited about this role because it combines hands-on AI work with growing a team, in healthcare."
+
+**Delivery tips:**
+- **Slow down on the numbers** (2 million, ten teams, three weeks). They are what people remember.
+- **Pause** between the four parts: Cerner/Wayfair, BETM, AI, what I want.
+- **Spend most of the time on the last 18 months.** Wayfair is one sentence.
+- **End with "what I want," then stop.** Don't add more. Let them ask.
+- **Likely next questions:** "Tell me more about the memory service" ([S5](13-Behavioral-Story-Bank.md#s5)) · "Tell me about leading the contractors" ([M1](13-Behavioral-Story-Bank.md#m1)) · "Why leave after about 15 months?" ([01 Q3](01-Role-Company-and-Your-Pitch.md)).
+
+Longer version and follow-ups: [01 Q1](01-Role-Company-and-Your-Pitch.md).
 
 ## Tech one-liners
 
